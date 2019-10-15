@@ -1,0 +1,4 @@
+.idea
+.env
+gce-available-disks.test
+gce-available-disks
